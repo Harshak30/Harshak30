@@ -2,12 +2,11 @@
 
 Welcome to my GitHub! I'm excited to share my journey with you.
 
-🔭 Currently working on: Data visualization, API development, and Predictive modeling.  
-🌱 Learning: AI, LLMs, and diving deeper into full-stack development.  
-🎓 Education: I completed my Master's degree in Software Systems (5-year integrated course).  
+🔭 Currently working on Data visualization, API development, Bot development and Predictive modeling.  
+🌱 Exploring advanced concepts in AI, LLMs, and full-stack development.  
+🎓 I completed my Master's degree in Software Systems (5-year integrated course).  
 👯 Looking to collaborate on: Projects related to data science, machine learning, or full-stack development.  
-🤔 Seeking help with: Exploring advanced concepts in AI and machine learning—if you have insights, I'd love to chat!  
-⚡ In addition to coding, I love art and crafts! Whether it’s painting, drawing, or DIY projects, I enjoy exploring my creative side. 🎨✨
+⚡ In addition to coding, I love art and crafts! Whether it’s painting, drawing, or DIY projects, I enjoy exploring my creative side🎨✨
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
