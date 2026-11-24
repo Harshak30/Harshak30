@@ -1,13 +1,32 @@
-## Hi there 👋
+
+## Hi there, I'm Harsha 👋
 
 Welcome to my GitHub! I'm excited to share my journey with you.
 
-🔭 Currently working on Data visualization, API development, Bot development and Predictive modeling.  
-🌱 Exploring advanced concepts in AI, LLMs, and full-stack development.  
-🎓 I completed my Master's degree in Software Systems (5-year integrated course).  
-👯 Looking to collaborate on: Projects related to data science, machine learning, or full-stack development.  
-⚡ In addition to coding, I love art and crafts! Whether it’s painting, drawing, or DIY projects, I enjoy exploring my creative side🎨✨
+Senior Software Engineer (AI/ML) with 4+ years of experience building production systems: LLM-powered automation, AI agent orchestration, document extraction pipelines, and compliance analytics.
 
+🔭 **Currently working on:** LLM-powered automation, agent workflows, and predictive modeling.
+
+🌱 **Currently exploring:** RAG evaluation, agent reliability, and full-stack AI application design.
+
+🤝 **Open to collaborating on:** applied LLM projects, ML tooling, and data-driven apps.
+
+🎓 I completed my Master's degree in Software Systems (5-year integrated course).  
+
+⚡ In addition to coding, I love art and crafts! Whether it’s painting, drawing, or DIY projects, I enjoy exploring my creative side.
+
+
+
+
+
+### 🛠️ Tech Stack
+**AI/ML:** LLMs, RAG, Prompt Engineering, AI Agents, scikit-learn.
+
+**Backend:** Python, FastAPI, Flask, PostgreSQL, SQLAlchemy.
+
+**Cloud & Data:** AWS, Azure, Snowflake, Power BI.
+
+**APIs & Models:** OpenAI, Google Gemini.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
